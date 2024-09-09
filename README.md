@@ -18,7 +18,7 @@ Because the conda repositories can't support lower version of pytorch_lightning(
 
 ## Installation and Training
 
-Under the openai_grok(Conda), and lighting_1.5.0(python3 venv) environment, we execute the following commands:
+Under the openai_grok(Conda), and lightning_1.5.0(python3 venv) environment, we execute the following commands:
 
 ```bash
 pip install -e .
