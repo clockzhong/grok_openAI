@@ -4,6 +4,14 @@
 
 This is the code for the paper [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177) by Alethea Power, Yuri Burda, Harri Edwards, Igor Babuschkin, and Vedant Misra
 
+## Setup environment
+
+```bash
+
+
+```
+
+
 ## Installation and Training
 
 ```bash

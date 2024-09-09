@@ -5,13 +5,15 @@ setup(
     packages=find_packages(),
     version="0.0.1",
     install_requires=[
-        "pytorch_lightning",
+        "torch==1.13.1",
+        "pytorch_lightning==1.5.0",
+        "torchmetrics==0.11.4",
+        "numpy==1.21.6",
         "blobfile",
-        "numpy",
-        "torch",
         "tqdm",
         "scipy",
         "mod",
         "matplotlib",
+        "sympy"
     ],
 )
