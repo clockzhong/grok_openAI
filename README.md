@@ -23,4 +23,8 @@ Under the openai_grok(Conda), and lightning_1.5.0(python3 venv) environment, we 
 ```bash
 pip install -e .
 ./scripts/train.py
+## The followings are with some more parameters:
+./scripts/train.py --max_steps=100
+./scripts/train.py --max_epochs=10 --max_steps=100
+
 ```
